@@ -172,3 +172,4 @@ This project is confirmed to work on these versions of software:
 #####    Thank you again to Dom for his flask demo, which we adapted to fit our needs as seen in our app.py script.
 
 #####    Thanks as well to the library creators and contributors of [Leaflet](https://leafletjs.com/) and [ApexCharts](https://apexcharts.com/).
+
